@@ -1,7 +1,7 @@
 # HackerRank
 Solutions to problems on HackerRank
 
-- Python
+- [Python](https://github.com/ns8468/HackerRank#Python)
 - SQL
 
 
