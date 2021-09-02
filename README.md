@@ -18,3 +18,12 @@ Solutions to problems on HackerRank
 | Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/) |   [solution.py](https://github.com/ns8468/HackerRank/blob/main/Python/Introduction/Loops/solution.py) |
 | Introduction | [Write a function](https://www.hackerrank.com/challenges/write-a-function/) |   [solution.py](https://github.com/ns8468/HackerRank/blob/main/Python/Introduction/Write%20a%20Function/solution.py)|
 | Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print/) |   [solution.py](https://github.com/ns8468/HackerRank/blob/main/Python/Introduction/Print%20Function/solution.py)|
+
+
+
+
+## SQL
+
+| Subdomain |  Challenge |   Solution  |
+| :-----: | :-: | :-----: | 
+| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
