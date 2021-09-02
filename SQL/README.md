@@ -6,8 +6,8 @@
 | Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
 | Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Select%20All/solution.sql)|
 | Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Select%20By%20ID/solution.sql)|
-| Basic Select | [Japanese Cities' Attributes]()|  [solution.sql]()|
-| Basic Select | [Japanese Cities' Names]()|  [solution.sql]()|
+| Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Japanese%20Cities'%20Attributes/solution.sql)|
+| Basic Select | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Japanese%20Cities'%20Names/solution.sql)|
 | Basic Select | [Weather Observation Station 1]()|  [solution.sql]()|
 | Basic Select | [Weather Observation Station 3]()|  [solution.sql]()|
 | Basic Select | [Weather Observation Station 4]()|  [solution.sql]()|
@@ -19,9 +19,9 @@
 | Basic Select | [Weather Observation Station 10]()|  [solution.sql]()|
 | Basic Select | [Weather Observation Station 11]()|  [solution.sql]()|
 | Basic Select | [Weather Observation Station 12]()|  [solution.sql]()|
-| Basic Select | [Higher Than 75 Marks]()|  [solution.sql]()|
-| Basic Select | [Employee Names]()|  [solution.sql]()|
-| Basic Select | [Employee Salaries]()|  [solution.sql]()|
+| Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Higher%20Than%2075%20Marks/solution.sql)|
+| Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Employee%20Names/solution.sql)|
+| Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Employee%20Salaries/solution.sql)|
 
 
 
