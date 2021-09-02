@@ -2,7 +2,7 @@
 Solutions to problems on HackerRank
 
 - [Python](https://github.com/ns8468/HackerRank#Python)
-- SQL
+- [SQL](https://github.com/ns8468/HackerRank#SQL)
 
 
 
