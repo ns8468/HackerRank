@@ -6,26 +6,22 @@
 | Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
 | Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Select%20All/solution.sql)|
 | Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Select%20By%20ID/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/solution.sql)|
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/solution.sql)|
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/)|  [solution.sql]()|
+| Basic Select | [Japanese Cities' Attributes]()|  [solution.sql]()|
+| Basic Select | [Japanese Cities' Names]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 1]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 3]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 4]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 5]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 6]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 7]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 8]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 9]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 10]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 11]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 12]()|  [solution.sql]()|
+| Basic Select | [Higher Than 75 Marks]()|  [solution.sql]()|
+| Basic Select | [Employee Names]()|  [solution.sql]()|
+| Basic Select | [Employee Salaries]()|  [solution.sql]()|
 
 
 
