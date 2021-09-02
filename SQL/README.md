@@ -8,17 +8,17 @@
 | Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Select%20By%20ID/solution.sql)|
 | Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Japanese%20Cities'%20Attributes/solution.sql)|
 | Basic Select | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Japanese%20Cities'%20Names/solution.sql)|
-| Basic Select | [Weather Observation Station 1]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 3]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 4]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 5]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 6]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 7]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 8]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 9]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 10]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 11]()|  [solution.sql]()|
-| Basic Select | [Weather Observation Station 12]()|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/)|  [solution.sql]()|
+| Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/)|  [solution.sql]()|
 | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Higher%20Than%2075%20Marks/solution.sql)|
 | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Employee%20Names/solution.sql)|
 | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Employee%20Salaries/solution.sql)|
