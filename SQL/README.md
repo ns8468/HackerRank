@@ -22,11 +22,11 @@
 | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Higher%20Than%2075%20Marks/solution.sql)|
 | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Employee%20Names/solution.sql)|
 | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Basic%20Select/Employee%20Salaries/solution.sql)|
-| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/)|  [solution.sql]()|
-| Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/)|  [solution.sql]()|
-| Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/)|  [solution.sql]()|
-| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/)|  [solution.sql]()|
-| Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/)|  [solution.sql]()|
+| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Advanced%20Select/Type%20of%20Triangle/solution.sql)|
+| Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Advanced%20Select/The%20PADS/solution.sql)|
+| Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/)|  [solution.sql](https://github.com/ns8468/HackerRank/blob/main/SQL/Advanced%20Select/Occupations/solution.sql)|
+| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/)|  [solution.sql](https://github.com/ns8468/HackerRank/tree/main/SQL/Advanced%20Select/Binary%20Tree%20Nodes)|
+| Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/)|  [solution.sql](https://github.com/ns8468/HackerRank/tree/main/SQL/Advanced%20Select/New%20Companies)|
 
 
 
