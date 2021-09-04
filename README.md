@@ -3,7 +3,7 @@ Solutions to problems on HackerRank
 
 - [Python](https://github.com/ns8468/HackerRank#Python)
 - [SQL](https://github.com/ns8468/HackerRank#SQL)
-- [10 Days of Javascript](https://github.com/ns8468/HackerRank#10 Days of Javascript)
+- [10 Days of Javascript](https://github.com/ns8468/HackerRank#10-Days-of-Javascript)
 
 
 
