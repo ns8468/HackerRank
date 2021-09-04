@@ -11,3 +11,6 @@
 | [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/)|  [solution.js]()|
 | [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/)|  [solution.js]()|
 | [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/)|  [solution.js]()|
+| [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays)|  [solution.js]()|
+| [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally)|  [solution.js]()|
+| [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw)|  [solution.js]()|
