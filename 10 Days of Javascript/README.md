@@ -14,3 +14,9 @@
 | [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%203:%20Arrays/solution.js)|
 | [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%203:%20Try%2C%20Catch%2C%20and%20Finally/solution.js)|
 | [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%203:%20Throw/solution.js)|
+| [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%204:%20Create%20a%20Rectangle%20Object/solution.js)|
+| [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%204:%20Count%20Objects/solution.js)|
+| [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%204:%20Classes/solution.js)|
+| [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%205:%20Inheritance/solution.js)|
+| [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%205:%20Template%20Literals/solution.js)|
+| [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%205:%20Arrow%20Functions/solution.js)|
