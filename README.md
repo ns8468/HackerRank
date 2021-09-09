@@ -58,7 +58,7 @@ Solutions to problems on HackerRank
 
 
 
-## 10 Days of Javascript
+## 10 Days of Javascript   (25/25 challenges solved)
 
 
 |  Challenge |   Solution  |
