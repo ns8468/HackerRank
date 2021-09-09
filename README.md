@@ -61,7 +61,6 @@ Solutions to problems on HackerRank
 ## 10 Days of Javascript
 
 
-
 |  Challenge |   Solution  |
 | :-----------: | :-----: | 
 | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-hello-world/)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%200:%20Data%20Types/solution.js)|
@@ -81,3 +80,11 @@ Solutions to problems on HackerRank
 | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%205:%20Inheritance/solution.js)|
 | [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%205:%20Template%20Literals/solution.js)|
 | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%205:%20Arrow%20Functions/solution.js)|
+| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%206:%20Bitwise%20Operators/solution.js)|
+| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%206:%20JavaScript%20Dates/solution.js)|
+| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%207:%20Regular%20Expressions%20I/solution.js)|
+| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%207:%20Regular%20Expressions%20II/solution.js)|
+| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3)|  [solution.js](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%207:%20Regular%20Expressions%20III/solution.js)|
+| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button)|  [solution](https://github.com/ns8468/HackerRank/tree/main/10%20Days%20of%20Javascript/Day%208:%20Create%20a%20Button)|
+| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container)|  [solution](https://github.com/ns8468/HackerRank/blob/main/10%20Days%20of%20Javascript/Day%208:%20Buttons%20Container/index.html)|
+| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator)|  [solution](https://github.com/ns8468/HackerRank/tree/main/10%20Days%20of%20Javascript/Day%209:%20Binary%20Calculator)|
