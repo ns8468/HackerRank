@@ -5,7 +5,7 @@ Solutions to problems on HackerRank
 - [SQL](https://github.com/ns8468/HackerRank#SQL)
 - [10 Days of Javascript](https://github.com/ns8468/HackerRank#10-Days-of-Javascript)
 - [Ruby](https://github.com/ns8468/HackerRank#Ruby)
-
+- [Regex](https://github.com/ns8468/HackerRank#Ruby)
 
 
 
