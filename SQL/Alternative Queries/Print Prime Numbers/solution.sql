@@ -16,3 +16,4 @@ WHERE NUMB<=1000 AND NOT EXISTS(
                 LIMIT 1000
             ) tatata
         WHERE FLOOR(NUMB/NUMA)=(NUMB/NUMA) AND NUMA<NUMB AND NUMA>1
+)
